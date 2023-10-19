@@ -1,0 +1,23 @@
+body{
+    border: solid;
+    border-color: rgb(34, 11, 11);
+    background-image: url(https://img.freepik.com/free-vector/cherry-blossom-frame-card_53876-93701.jpg?w=360&t=st=1697705576~exp=1697706176~hmac=7e3bdc2927478d6e1aeb46b70b3d9d21efbde560bb179fceab3e2beb0ce71f47);
+}
+body {
+    font-family: "Lucida Sans Typewriter","Lucida Console",Monaco,"Bitstream Vera Sans Mono",monospace;
+    font-weight: 300;
+    font-size: 13px;
+    color: #303030;
+    line-height: 26px;
+}
+h1{
+    text-align: center;
+    background-color: rgb(243, 150, 181);
+}
+h2{
+    text-align: center;
+    background-color: pink;
+}
+p{
+    text-align: center;
+}
